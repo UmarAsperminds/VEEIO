@@ -1,0 +1,7 @@
+<option value='Dashboard'>Dashboard</option>
+<option value='AddNew'>Add / Edit Criteria</option>
+<option value='UserMaster'>User Master</option>
+<option value='VehicleReport'>Vehicle Report</option>
+<option value='EquipmentReport'>Equipment Report</option>
+<option value='EmployeeReport'>Employee Report</option>
+<option value='ProjectReport'>Project Report</option>
