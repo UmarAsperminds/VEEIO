@@ -1,0 +1,13 @@
+Admin Panel
+-----------------------------------
+//AddNewBranch In Field( Main Office Qatif, Branch Office Abqaiq(ABQ)  )
+{ LoginForEachBranch; }
+//AdminPanel => Dashboard, Report
+Report(){
+	Project, Vehicle, Equipment, Employee.....
+}
+
+
+Transport Panel
+---------------------------------------
+//Edit GatePass Page()
